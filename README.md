@@ -15,23 +15,23 @@ We selected a sentence from the test set with at least 10 tokens where the model
 
 We explained the exact role of the align_label function and why it sets the ids of some tokens to the value -100. The explanation can be found in the file Question1_2_3.
 
-## Task 4: Code Modification - Freezing BERT Weights
+## Task 4: Freezing BERT Weights
 
 We modified the original code to freeze the weights concerning the pre-trained language model BERT. You can check the modifications and the performance comparison with the original model in the file Question_4.
 
-## Task 5: Code Modification - Merging Training and Validation Sets
+## Task 5: Merging Training and Validation Sets
 
 We adjusted the original code to use the union of the training set and the validation set (17,291 sentences) as the training set. The code modifications and performance comparison with the original model are in the file Question_5.
 
-## Task 6: Code Modification - POS Tagging
+## Task 6:  POS Tagging
 
 We altered the original code to perform POS tagging instead of NER. You can find the changes and the results in the file Question_6.
 
-## Task 7: Code Modification - Text Chunking
+## Task 7: Text Chunking
 
 We modified the original code to carry out text chunking instead of NER. You can find the changes and the results in the file Question_7.
 
-## Task 8: Code Modification - Using Roberta-base
+## Task 8:  Using Roberta-base
 
 We altered the original code to use the roberta-base pre-trained model (and the corresponding tokenizer). You can find the changes and the results in the file Question_8.
 
