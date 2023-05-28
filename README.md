@@ -1,7 +1,7 @@
 # NLPexercise3
 In this exercise, we performed various tasks related to natural language processing (NLP) using a provided training code by the teacher. The tasks included code execution and performance reporting, model evaluation and new sentence input, explanation of the align_label function, code modifications such as freezing BERT weights, merging training and validation sets, performing POS tagging, carrying out text chunking, and using the roberta-base pre-trained model.
 
-In the last two tasks, we utilized a generative pre-trained language model called ChatGPT, which is based on Transformers. With ChatGPT, we performed the tasks of named entity recognition (NER), POS tagging, and text chunking using both zero-shot and few-shot prompting approaches. The detailed analyses, results, and code modifications for each task can be found in the corresponding files.
+In the last two tasks, we utilized a generative pre-trained language model ChatGPT. With ChatGPT, we performed the tasks of named entity recognition (NER), POS tagging, and text chunking using both zero-shot and few-shot prompting approaches. The detailed analyses, results, and code modifications for each task can be found in the corresponding files.
 
 ## Task 1: Code execution and performance report
 
@@ -13,7 +13,7 @@ We selected a sentence from the test set with at least 10 tokens where the model
 
 ## Task 3: Explanation of align_label Function
 
-We explained the exact role of the align_label function and why it sets the ids of some tokens to the value -100. The explanation can be found in the file Question1_2_3.
+We explained the  role of the align_label function and why it sets the ids of some tokens to the value -100. The explanation can be found in the file Question1_2_3.
 
 ## Task 4: Freezing BERT Weights
 
