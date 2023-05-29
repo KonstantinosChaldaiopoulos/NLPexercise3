@@ -45,3 +45,6 @@ We repeated the second task for all 3 tasks (NER, POS tagging, Chunking) using C
 ## Task 10: Few-shot prompting using ChatGPT
 
 We repeated the second task for all 3 tasks (NER, POS tagging, Chunking) using ChatGPT with few-shot prompting and provided a report. See Question_10.
+
+## Authors
+This repository was created by Konstantinos Chaldaiopoulos
