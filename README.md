@@ -29,7 +29,7 @@ We altered the original code to perform POS tagging instead of NER. See Question
 
 ## Task 7: Text chunking
 
-We modified the original code to carry out text chunking instead of NER. See Question_7.
+We modified the original code to carry out text chunking instead of POS. See Question_7.
 
 ## Task 8:  Using Roberta-base
 
